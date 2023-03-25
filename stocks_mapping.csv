@@ -1,0 +1,943 @@
+,symbol,symbol_anonym,sector
+0,BAC-PL,0,Financial Services
+1,AAPL,1,Technology
+2,GOOG,2,Communication Services
+3,GOOGL,3,Communication Services
+4,AMZN,4,Consumer Cyclical
+5,TSLA,5,Consumer Cyclical
+6,NVDA,6,Technology
+7,META,7,Communication Services
+8,TSM,8,Technology
+9,XOM,9,Energy
+10,MC.PA,10,Consumer Cyclical
+11,JPM,11,Financial Services
+12,MA,12,Financial Services
+13,CHTEX.BR,13,Energy
+14,JPM-PC,14,Financial Services
+15,JPM-PD,15,Financial Services
+16,CVX,16,Energy
+17,BML-PG,17,Financial Services
+18,PCGU,18,Utilities
+19,BML-PH,19,Financial Services
+20,BAC,20,Financial Services
+21,AVGO,21,Technology
+22,BML-PL,22,Financial Services
+23,BAC-PE,23,Financial Services
+24,ASML,24,Technology
+25,BAC-PB,25,Financial Services
+26,BML-PJ,26,Financial Services
+27,BAC-PK,27,Financial Services
+28,ORCL,28,Technology
+29,WFC-PQ,29,Financial Services
+30,WFC-PY,30,Financial Services
+31,NKE,31,Consumer Cyclical
+32,CRM,32,Technology
+33,BAC-PM,33,Financial Services
+34,WFC-PR,34,Financial Services
+35,DIS,35,Communication Services
+36,WFC-PL,36,Financial Services
+37,WFC,37,Financial Services
+38,BAC-PN,38,Financial Services
+39,ACN,39,Technology
+40,MS,40,Financial Services
+41,BAC-PS,41,Financial Services
+42,UPS,42,Industrials
+43,TXN,43,Technology
+44,ADBE,44,Technology
+45,CMCSA,45,Communication Services
+46,BAC-PO,46,Financial Services
+47,CDI.PA,47,Consumer Cyclical
+48,BAC-PQ,48,Financial Services
+49,BAC-PP,49,Financial Services
+50,C-PJ,50,Financial Services
+51,NFLX,51,Communication Services
+52,QCOM,52,Technology
+53,SAP,53,Technology
+54,AXP,54,Financial Services
+55,COP,55,Energy
+56,CAT,56,Industrials
+57,HON,57,Industrials
+58,AMD,58,Technology
+59,BA,59,Industrials
+60,UNP,60,Industrials
+61,DE,61,Industrials
+62,BOEI.BR,62,Industrials
+63,BUD,63,Consumer Defensive
+64,WFC-PC,64,Financial Services
+65,CATR.PA,65,Industrials
+66,LOW,66,Consumer Cyclical
+67,GS,67,Financial Services
+68,PLD,68,Real Estate
+69,SIA.BR,69,Industrials
+70,ABI.BR,70,Consumer Defensive
+71,SPGI,71,Financial Services
+72,BX,72,Financial Services
+73,BLK,73,Financial Services
+74,GET&D.NS,74,Industrials
+75,BPAC3.SA,75,Financial Services
+76,C,76,Financial Services
+77,AMAT,77,Technology
+78,BKNG,78,Consumer Cyclical
+79,AIR.PA,79,Industrials
+80,ADI,80,Technology
+81,GE,81,Industrials
+82,ITX.MC,82,Consumer Cyclical
+83,CNQ.TO,83,Energy
+84,SU.PA,84,Industrials
+85,GNE.PA,85,Industrials
+86,USB-PH,86,Financial Services
+87,PYPL,87,Financial Services
+88,VWA.BR,88,Consumer Cyclical
+89,VWAP.BR,89,Consumer Cyclical
+90,ISRG,90,Healthcare
+91,SLB,91,Energy
+92,ABNB,92,Consumer Cyclical
+93,BNP.PA,93,Financial Services
+94,GS-PA,94,Financial Services
+95,USB-PP,95,Financial Services
+96,TGT,96,Consumer Defensive
+97,ET-PD,97,
+98,BN.TO,98,Financial Services
+99,ET-PE,99,
+100,ET-PC,100,
+101,MS-PA,101,Financial Services
+102,GS-PD,102,Financial Services
+103,SHOP.TO,103,Technology
+104,SLB.PA,104,Energy
+105,WFC-PZ,105,Financial Services
+106,KER.PA,106,Consumer Cyclical
+107,WFC-PA,107,Financial Services
+108,ITW,108,Industrials
+109,USB,109,Financial Services
+110,EOG,110,Energy
+111,ETN,111,Industrials
+112,CS.PA,112,Financial Services
+113,UBER,113,Technology
+114,HCA,114,Healthcare
+115,UBS,115,Financial Services
+116,WFC-PD,116,Financial Services
+117,GS-PJ,117,Financial Services
+118,MS-PK,118,Financial Services
+119,MS-PI,119,Financial Services
+120,SAN,120,Financial Services
+121,CNQ,121,Energy
+122,LRCX,122,Technology
+123,MS-PF,123,Financial Services
+124,GS-PK,124,Financial Services
+125,MS-PE,125,Financial Services
+126,BPAC11.SA,126,Financial Services
+127,SANTA.BR,127,Financial Services
+128,CSX,128,Industrials
+129,KKR,129,Financial Services
+130,SAN.MC,130,Financial Services
+131,SU.TO,131,Energy
+132,ABB,132,Industrials
+133,FCX,133,Basic Materials
+134,JPM-PJ,134,Financial Services
+135,MU,135,Technology
+136,TFC,136,Financial Services
+137,PNC,137,Financial Services
+138,SCCO,138,Basic Materials
+139,STLA,139,Consumer Cyclical
+140,JPM-PL,140,Financial Services
+141,MPC,141,Energy
+142,JPM-PK,142,Financial Services
+143,SHW,143,Basic Materials
+144,SAF.PA,144,Industrials
+145,PANW,145,Technology
+146,GM,146,Consumer Cyclical
+147,CM.TO,147,Financial Services
+148,CHTR,148,Communication Services
+149,SNPS,149,Technology
+150,BN,150,Financial Services
+151,OXY,151,Energy
+152,SHOP,152,Technology
+153,JPM-PM,153,Financial Services
+154,MRNA,154,Healthcare
+155,MET,155,Financial Services
+156,MCO,156,Financial Services
+157,KKR-PC,157,Financial Services
+158,CDNS,158,Technology
+159,MAR,159,Consumer Cyclical
+160,KLAC,160,Technology
+161,FDX,161,Industrials
+162,VLO,162,Energy
+163,NSC,163,Industrials
+164,ING,164,Financial Services
+165,F,165,Consumer Cyclical
+166,MFC.TO,166,Financial Services
+167,CVE.TO,167,Energy
+168,SPG-PJ,168,Real Estate
+169,PXD,169,Energy
+170,WDAY,170,Technology
+171,PSX,171,Energy
+172,C-PK,172,Financial Services
+173,EMR,173,Industrials
+174,SQ,174,Technology
+175,GGBR3.SA,175,Basic Materials
+176,E,176,Energy
+177,GGBR4.SA,177,Basic Materials
+178,FTNT,178,Technology
+179,DXCM,179,Healthcare
+180,BBVA,180,Financial Services
+181,NXPI,181,Technology
+182,APH,182,Technology
+183,SU,183,Energy
+184,MET-PA,184,Financial Services
+185,LVS,185,Consumer Cyclical
+186,SPG,186,Real Estate
+187,PH,187,Industrials
+188,ENI.BR,188,Energy
+189,ROP,189,Industrials
+190,MCHP,190,Technology
+191,NUE,191,Basic Materials
+192,CTAS,192,Industrials
+193,JCI,193,Industrials
+194,ADSK,194,Technology
+195,BBVA.MC,195,Financial Services
+196,TT,196,Industrials
+197,AIG,197,Financial Services
+198,BBV.BR,198,Financial Services
+199,MET-PE,199,Financial Services
+200,STM,200,Technology
+201,APO,201,Financial Services
+202,HES,202,Energy
+203,MS-PP,203,Financial Services
+204,ANET,204,Technology
+205,AIG-PA,205,Financial Services
+206,MSCI,206,Financial Services
+207,A,207,Healthcare
+208,PUK,208,Financial Services
+209,CM,209,Financial Services
+210,LYG,210,Financial Services
+211,TDG,211,Industrials
+212,COF,212,Financial Services
+213,CMG,213,Consumer Cyclical
+214,BK,214,Financial Services
+215,TEL,215,Technology
+216,STZ,216,Consumer Defensive
+217,DOW,217,Basic Materials
+218,IQV,218,Healthcare
+219,STM.PA,219,Technology
+220,IMO.TO,220,Energy
+221,IDXX,221,Healthcare
+222,LULU,222,Consumer Cyclical
+223,ET,223,Energy
+224,LNG,224,Energy
+225,CARR,225,Industrials
+226,HLT,226,Consumer Cyclical
+227,ODFL,227,Industrials
+228,SYY,228,Consumer Defensive
+229,WMB,229,Energy
+230,MRVL,230,Technology
+231,WBD,231,Communication Services
+232,MFC,232,Financial Services
+233,PCG,233,Utilities
+234,DVN,234,Energy
+235,CVE,235,Energy
+236,WELL,236,Real Estate
+237,SE,237,Consumer Cyclical
+238,MS-PL,238,Financial Services
+239,CMI,239,Industrials
+240,AMP,240,Financial Services
+241,PRU,241,Financial Services
+242,APTV-PA,242,Consumer Cyclical
+243,HAL,243,Energy
+244,GWW,244,Industrials
+245,ILMN,245,Healthcare
+246,MPLX,246,Energy
+247,NWG,247,Financial Services
+248,ROK,248,Industrials
+249,ACA.PA,249,Financial Services
+250,NA.TO,250,Financial Services
+251,VICI,251,Real Estate
+252,DD,252,Basic Materials
+253,ON,253,Technology
+254,CPRT,254,Consumer Cyclical
+255,HBANM,255,Financial Services
+256,ENGI.PA,256,Utilities
+257,MTD,257,Healthcare
+258,BCS,258,Financial Services
+259,URI,259,Industrials
+260,AME,260,Industrials
+261,BKR,261,Energy
+262,CLVT-PA,262,Technology
+263,PPG,263,Basic Materials
+264,APTV,264,Consumer Cyclical
+265,DHI,265,Consumer Cyclical
+266,CTSH,266,Technology
+267,LYB,267,Basic Materials
+268,MS-PO,268,Financial Services
+269,STT,269,Financial Services
+270,TFC-PO,270,Financial Services
+271,CAP.PA,271,Technology
+272,TECK-A.TO,272,Basic Materials
+273,DFS,273,Financial Services
+274,FAST,274,Industrials
+275,ALB,275,Basic Materials
+276,OKE,276,Energy
+277,IMO,277,Energy
+278,FERG,278,Industrials
+279,GLW,279,Technology
+280,KBC.BR,280,Financial Services
+281,GEN.BR,281,Financial Services
+282,ENPH,282,Technology
+283,SGO.PA,283,Industrials
+284,CRWD,284,Technology
+285,PRIO3.SA,285,Energy
+286,TECK-B.TO,286,Basic Materials
+287,TFC-PI,287,
+288,KEYS,288,Technology
+289,HBANP,289,Financial Services
+290,TTD,290,Technology
+291,HPQ,291,Technology
+292,PPL-PA.TO,292,Energy
+293,LEN,293,Consumer Cyclical
+294,USB-PR,294,Financial Services
+295,LEN-B,295,Consumer Cyclical
+296,AMS.MC,296,Consumer Cyclical
+297,PPL-PC.TO,297,Energy
+298,TFC-PR,298,Financial Services
+299,CSAN3.SA,299,Energy
+300,CMIN3.SA,300,Basic Materials
+301,CDW,301,Technology
+302,CBRE,302,Real Estate
+303,ANSS,303,Technology
+304,FANG,304,Energy
+305,PPL-PQ.TO,305,Energy
+306,HWM-P,306,
+307,ULTA,307,Consumer Cyclical
+308,ZBH,308,Healthcare
+309,IT,309,Technology
+310,USB-PQ,310,Financial Services
+311,MT,311,Basic Materials
+312,ALGN,312,Healthcare
+313,NA-PC.TO,313,Financial Services
+314,SQM,314,Basic Materials
+315,PPL.TO,315,Energy
+316,TROW,316,Financial Services
+317,DB,317,Financial Services
+318,EFX,318,Industrials
+319,CSNA3.SA,319,Basic Materials
+320,HZNP,320,Healthcare
+321,DAL,321,Industrials
+322,FITB,322,Financial Services
+323,EBAY,323,Consumer Cyclical
+324,SABRP,324,Consumer Cyclical
+325,POW.TO,325,Financial Services
+326,ARES,326,Financial Services
+327,GFLU,327,Industrials
+328,WST,328,Healthcare
+329,MTS.MC,329,Basic Materials
+330,IR,330,Industrials
+331,FTV,331,Technology
+332,SPOT,332,Communication Services
+333,IFF,333,Basic Materials
+334,STLD,334,Basic Materials
+335,MPWR,335,Technology
+336,NA-PE.TO,336,Financial Services
+337,PWR,337,Industrials
+338,RJF,338,Financial Services
+339,WY,339,Real Estate
+340,KEY-PL,340,Financial Services
+341,CNHI,341,Industrials
+342,FRC,342,Financial Services
+343,AENA.MC,343,Industrials
+344,FSLR,344,Technology
+345,DASH,345,Communication Services
+346,MG.TO,346,Consumer Cyclical
+347,RYAAY,347,Industrials
+348,CM-PT.TO,348,Financial Services
+349,HBAN,349,Financial Services
+350,RF,350,Financial Services
+351,FM.TO,351,Basic Materials
+352,DOV,352,Industrials
+353,TECK,353,Basic Materials
+354,GLE.PA,354,Financial Services
+355,PFG,355,Financial Services
+356,LH,356,Healthcare
+357,UMC,357,Technology
+358,IX,358,Financial Services
+359,HEI,359,Industrials
+360,PARAP,360,Communication Services
+361,HEI-A,361,Industrials
+362,TOU.TO,362,Energy
+363,TS,363,Energy
+364,TDY,364,Technology
+365,REP.MC,365,Energy
+366,NET,366,Technology
+367,LUV,367,Industrials
+368,HUBS,368,Technology
+369,VIE.PA,369,Industrials
+370,CFG,370,Financial Services
+371,HOLX,371,Healthcare
+372,HPE,372,Technology
+373,NTRS,373,Financial Services
+374,NTCO3.SA,374,Consumer Defensive
+375,PKX,375,Basic Materials
+376,VTR,376,Real Estate
+377,MOS,377,Basic Materials
+378,JBHT,378,Industrials
+379,WAB,379,Industrials
+380,ICLR,380,Healthcare
+381,STT-PG,381,Financial Services
+382,STT-PD,382,Financial Services
+383,RCL,383,Consumer Cyclical
+384,PBA,384,Energy
+385,XYL,385,Industrials
+386,KEY-PK,386,Financial Services
+387,BBY,387,Consumer Cyclical
+388,SEDG,388,Technology
+389,QRTEP,389,Consumer Cyclical
+390,UGIC,390,Utilities
+391,SWKS,391,Technology
+392,HWM,392,Industrials
+393,RF-PE,393,Financial Services
+394,TRGP,394,Energy
+395,DRI,395,Consumer Cyclical
+396,FICO,396,Technology
+397,FITBI,397,Financial Services
+398,EPAM,398,Technology
+399,PAYC,399,Technology
+400,OWL,400,Financial Services
+401,PLTR,401,Technology
+402,MGM,402,Consumer Cyclical
+403,FWONK,403,Communication Services
+404,UAL,404,Industrials
+405,FWONA,405,Communication Services
+406,HTHT,406,Consumer Cyclical
+407,RKT,407,Financial Services
+408,MET-PF,408,Financial Services
+409,KEY,409,Financial Services
+410,AVTR,410,Basic Materials
+411,LYV,411,Communication Services
+412,CF,412,Basic Materials
+413,SNAP,413,Communication Services
+414,SIVB,414,Financial Services
+415,FITBP,415,Financial Services
+416,MRO,416,Energy
+417,NIO,417,Consumer Cyclical
+418,PKI,418,Healthcare
+419,EXPE,419,Consumer Cyclical
+420,SPLK,420,Technology
+421,WMG,421,Communication Services
+422,GOLL4.SA,422,Industrials
+423,UI,423,Technology
+424,LCID,424,Consumer Cyclical
+425,MGA,425,Consumer Cyclical
+426,TER,426,Technology
+427,ASX,427,Technology
+428,ZBRA,428,Technology
+429,SYF,429,Financial Services
+430,WLK,430,Basic Materials
+431,FLT,431,Technology
+432,AER,432,Industrials
+433,KEY-PJ,433,Financial Services
+434,CDAY.TO,434,Technology
+435,LKQ,435,Consumer Cyclical
+436,OVV.TO,436,Energy
+437,FITBO,437,Financial Services
+438,TXT,438,Industrials
+439,CFG-PD,439,Financial Services
+440,KEY-PI,440,Financial Services
+441,ETSY,441,Consumer Cyclical
+442,IVN.TO,442,Basic Materials
+443,SSNC,443,Technology
+444,PARAA,444,Communication Services
+445,PARA,445,Communication Services
+446,BEN,446,Financial Services
+447,PTC,447,Technology
+448,TFII.TO,448,Industrials
+449,GFL.TO,449,Industrials
+450,CCL,450,Consumer Cyclical
+451,GLPI,451,Real Estate
+452,FRC-PI,452,Financial Services
+453,NTAP,453,Technology
+454,BURL,454,Consumer Cyclical
+455,TPL,455,Energy
+456,RF-PC,456,Financial Services
+457,IPG,457,Communication Services
+458,AAM-PB,458,Financial Services
+459,AAM-PA,459,Financial Services
+460,OKTA,460,Technology
+461,FRC-PH,461,Financial Services
+462,TWLO,462,Communication Services
+463,HUBB,463,Industrials
+464,ADP.PA,464,Industrials
+465,CE,465,Basic Materials
+466,VTRS,466,Healthcare
+467,RF-PB,467,Financial Services
+468,CTLT,468,Healthcare
+469,SWK,469,Industrials
+470,TRMB,470,Technology
+471,WPP,471,Communication Services
+472,STX,472,Technology
+473,SNA,473,Industrials
+474,IP,474,Consumer Cyclical
+475,H,475,Consumer Cyclical
+476,WYNN,476,Consumer Cyclical
+477,BLDR,477,Industrials
+478,CUK,478,Consumer Cyclical
+479,NLY-PG,479,Real Estate
+480,DOCU,480,Technology
+481,GOAU4.SA,481,Basic Materials
+482,NLY-PF,482,Real Estate
+483,ENTG,483,Technology
+484,OTEX.TO,484,Technology
+485,CG,485,Financial Services
+486,GOAU3.SA,486,Basic Materials
+487,APA,487,Energy
+488,AMUN.PA,488,Financial Services
+489,KIM,489,Real Estate
+490,LBRDK,490,Communication Services
+491,AGNCL,491,Real Estate
+492,LBRDA,492,Communication Services
+493,TRU,493,Industrials
+494,DT,494,Technology
+495,AGNCO,495,Real Estate
+496,ACM,496,Industrials
+497,PHM,497,Consumer Cyclical
+498,EQT,498,Energy
+499,BPYPP,499,Real Estate
+500,WDC,500,Technology
+501,GEN,501,Technology
+502,TECH,502,Healthcare
+503,BSY,503,Technology
+504,RNO.PA,504,Consumer Cyclical
+505,HST,505,Real Estate
+506,LSCC,506,Technology
+507,EXAS,507,Healthcare
+508,MAS,508,Industrials
+509,BWA,509,Consumer Cyclical
+510,CRL,510,Healthcare
+511,AGNCP,511,Real Estate
+512,WLN.PA,512,Technology
+513,CLF,513,Basic Materials
+514,CZR,514,Consumer Cyclical
+515,EQH,515,Financial Services
+516,MTCH,516,Communication Services
+517,U,517,Technology
+518,FIVE,518,Consumer Cyclical
+519,CDAY,519,Technology
+520,OVV,520,Energy
+521,JBL,521,Technology
+522,TEVA,522,Healthcare
+523,SOLB.BR,523,Basic Materials
+524,KMX,524,Consumer Cyclical
+525,BRKR,525,Healthcare
+526,RITM-PA,526,Real Estate
+527,DKS,527,Consumer Cyclical
+528,NLY-PI,528,Real Estate
+529,WSC,529,Industrials
+530,RITM-PB,530,Real Estate
+531,TFII,531,Industrials
+532,REG,532,Real Estate
+533,GFL,533,Industrials
+534,LAMR,534,Real Estate
+535,AGCO,535,Industrials
+536,RRX,536,Industrials
+537,AAL,537,Industrials
+538,PCTY,538,Technology
+539,EWBC,539,Financial Services
+540,ALO.PA,540,Industrials
+541,CCK,541,Consumer Cyclical
+542,TPR,542,Consumer Cyclical
+543,AEG,543,Financial Services
+544,RGEN,544,Healthcare
+545,WES,545,Energy
+546,EMN,546,Basic Materials
+547,FNF,547,Financial Services
+548,ARCC,548,Financial Services
+549,FLEX,549,Technology
+550,CTC-A.TO,550,Consumer Cyclical
+551,BXP,551,Real Estate
+552,AOS,552,Industrials
+553,LSXMA,553,Communication Services
+554,QRVO,554,Technology
+555,DAR,555,Consumer Defensive
+556,LSXMK,556,Communication Services
+557,CTC.TO,557,Consumer Cyclical
+558,VFC,558,Consumer Cyclical
+559,CFG-PE,559,Financial Services
+560,DIE.BR,560,Consumer Cyclical
+561,XM,561,Technology
+562,IGM.TO,562,Financial Services
+563,RITM-PD,563,Real Estate
+564,Z,564,Communication Services
+565,ALLE,565,Industrials
+566,ZG,566,Communication Services
+567,USIM6.SA,567,Basic Materials
+568,NLY,568,Real Estate
+569,FGR.PA,569,Industrials
+570,LECO,570,Industrials
+571,PAG,571,Consumer Cyclical
+572,CAE.TO,572,Industrials
+573,NWSA,573,Communication Services
+574,NWS,574,Communication Services
+575,AA,575,Basic Materials
+576,COTY,576,Consumer Defensive
+577,ARX.TO,577,Energy
+578,ARMK,578,Industrials
+579,SSL,579,Basic Materials
+580,LBTYB,580,Communication Services
+581,FND,581,Consumer Cyclical
+582,GGB,582,Basic Materials
+583,MTN,583,Consumer Cyclical
+584,BILL,584,Technology
+585,RITM-PC,585,Real Estate
+586,LBTYK,586,Communication Services
+587,OTEX,587,Technology
+588,KNX,588,Industrials
+589,SMTO3.SA,589,Consumer Defensive
+590,LBTYA,590,Communication Services
+591,PAA,591,Energy
+592,BPO-PI.TO,592,Real Estate
+593,JHX,593,Basic Materials
+594,VNO-PL,594,Real Estate
+595,PNR,595,Industrials
+596,LSXMB,596,Communication Services
+597,CHDN,597,Consumer Cyclical
+598,IAG.MC,598,Industrials
+599,MANH,599,Technology
+600,ROKU,600,Communication Services
+601,OC,601,Industrials
+602,IAG.TO,602,Financial Services
+603,DOO.TO,603,Consumer Cyclical
+604,SNX,604,Technology
+605,CAR,605,Industrials
+606,VNO-PM,606,Real Estate
+607,ALLY,607,Financial Services
+608,USIM5.SA,608,Basic Materials
+609,CMA,609,Financial Services
+610,NOV,610,Energy
+611,WOLF,611,Technology
+612,UHS,612,Healthcare
+613,WBS,613,Financial Services
+614,BBWI,614,Consumer Cyclical
+615,PFGC,615,Consumer Defensive
+616,USIM3.SA,616,Basic Materials
+617,UNM,617,Financial Services
+618,MORN,618,Financial Services
+619,TX,619,Basic Materials
+620,WCC,620,Industrials
+621,AGNCN,621,Real Estate
+622,YPF,622,Energy
+623,RHI,623,Industrials
+624,FFIV,624,Technology
+625,FRT-PC,625,Real Estate
+626,FRT,626,Real Estate
+627,DCP,627,Energy
+628,ALGM,628,Technology
+629,XPEV,629,Consumer Cyclical
+630,G,630,Technology
+631,USFD,631,Consumer Defensive
+632,BILI,632,Communication Services
+633,OSH,633,Healthcare
+634,SYF-PA,634,Financial Services
+635,DKNG,635,Consumer Cyclical
+636,WEX,636,Technology
+637,CFR,637,Financial Services
+638,JEF,638,Financial Services
+639,MIDD,639,Industrials
+640,CGNX,640,Technology
+641,LEA,641,Consumer Cyclical
+642,WRK,642,Consumer Cyclical
+643,AC.PA,643,Consumer Cyclical
+644,WAL,644,Financial Services
+645,NYMTM,645,Real Estate
+646,JLL,646,Real Estate
+647,GIL.TO,647,Consumer Cyclical
+648,CX,648,Basic Materials
+649,AAP,649,Consumer Cyclical
+650,ALV,650,Consumer Cyclical
+651,WSM,651,Consumer Cyclical
+652,IVZ,652,Financial Services
+653,DCI,653,Industrials
+654,SEIC,654,Financial Services
+655,AGNCM,655,Real Estate
+656,PLUG,656,Industrials
+657,AR,657,Energy
+658,EME,658,Industrials
+659,MTZ,659,Industrials
+660,FBIN,660,Industrials
+661,DLB,661,Technology
+662,COF-PI,662,Financial Services
+663,EQH-PA,663,Financial Services
+664,OLN,664,Basic Materials
+665,IRDM,665,Communication Services
+666,UGI,666,Utilities
+667,ST,667,Technology
+668,RL,668,Consumer Cyclical
+669,SAIA,669,Industrials
+670,GFC.PA,670,Real Estate
+671,GNRC,671,Industrials
+672,ITT,672,Industrials
+673,BERY,673,Consumer Cyclical
+674,CROX,674,Consumer Cyclical
+675,UWMC,675,Financial Services
+676,NVT,676,Industrials
+677,UMI.BR,677,Industrials
+678,INSP,678,Healthcare
+679,CLVT,679,Technology
+680,KBR,680,Industrials
+681,WHR,681,Consumer Cyclical
+682,NFE,682,Utilities
+683,COF-PJ,683,Financial Services
+684,ACS.MC,684,Industrials
+685,PSTG,685,Technology
+686,RXL.PA,686,Technology
+687,COF-PK,687,Financial Services
+688,AKE.PA,688,Basic Materials
+689,VOYA,689,Financial Services
+690,CLH,690,Industrials
+691,TPX,691,Consumer Cyclical
+692,TOI.V,692,Technology
+693,AKE.TO,693,Basic Materials
+694,CAE,694,Industrials
+695,ALD.PA,695,Industrials
+696,ZION,696,Financial Services
+697,VOYA-PB,697,Financial Services
+698,WMS,698,Industrials
+699,SAB.MC,699,Financial Services
+700,AC.TO,700,Industrials
+701,BRFS3.SA,701,Consumer Defensive
+702,APLS,702,Healthcare
+703,PLNT,703,Consumer Cyclical
+704,CELH,704,Consumer Defensive
+705,SF,705,Financial Services
+706,FR,706,Real Estate
+707,GLOB,707,Technology
+708,RBC,708,Industrials
+709,LAD,709,Consumer Cyclical
+710,SBNY,710,Financial Services
+711,SKX,711,Consumer Cyclical
+712,VMI,712,Industrials
+713,X,713,Basic Materials
+714,KIM-PM,714,Real Estate
+715,KEY.TO,715,Energy
+716,SEE,716,Consumer Cyclical
+717,NYMTL,717,Real Estate
+718,IAF-PI.TO,718,Financial Services
+719,LEVI,719,Consumer Cyclical
+720,YRI.TO,720,Basic Materials
+721,KIM-PL,721,Real Estate
+722,ARW,722,Technology
+723,ADT,723,Industrials
+724,COF-PL,724,Financial Services
+725,MEG.TO,725,Energy
+726,BOKF,726,Financial Services
+727,HOG,727,Consumer Cyclical
+728,CR,728,Industrials
+729,EQH-PC,729,Financial Services
+730,CIB,730,Financial Services
+731,NXST,731,Communication Services
+732,COF-PN,732,Financial Services
+733,MTDR,733,Energy
+734,LI.PA,734,Real Estate
+735,BYD,735,Consumer Cyclical
+736,BRX,736,Real Estate
+737,AXTA,737,Basic Materials
+738,RH,738,Consumer Cyclical
+739,FTI,739,Energy
+740,NCLH,740,Consumer Cyclical
+741,HESM,741,Energy
+742,CW,742,Industrials
+743,YNDX,743,Communication Services
+744,NYMTZ,744,Real Estate
+745,DOOO,745,Consumer Cyclical
+746,ACHC,746,Healthcare
+747,MHK,747,Consumer Cyclical
+748,LFUS,748,Technology
+749,OLED,749,Technology
+750,WH,750,Consumer Cyclical
+751,KRTX,751,Healthcare
+752,RRC,752,Energy
+753,NATI,753,Technology
+754,ALA.TO,754,Utilities
+755,SITE,755,Industrials
+756,PSEC-PA,756,Financial Services
+757,WCP.TO,757,Energy
+758,CIGI.TO,758,Real Estate
+759,BLD,759,Industrials
+760,TOL,760,Consumer Cyclical
+761,CHH,761,Consumer Cyclical
+762,PR,762,Energy
+763,PII,763,Consumer Cyclical
+764,BIPC.TO,764,Utilities
+765,AN,765,Consumer Cyclical
+766,NTNX,766,Technology
+767,REI-UN.TO,767,Real Estate
+768,DXC,768,Technology
+769,CHX,769,Energy
+770,BBD-B.TO,770,Industrials
+771,AMKR,771,Technology
+772,NVEI.TO,772,Technology
+773,NVST,773,Healthcare
+774,MUR,774,Energy
+775,SLG-PI,775,Real Estate
+776,MAT,776,Consumer Cyclical
+777,MKSI,777,Technology
+778,TKR,778,Industrials
+779,TIT.BR,779,Communication Services
+780,VVV,780,Energy
+781,CMC,781,Basic Materials
+782,NTRA,782,Healthcare
+783,AYI,783,Industrials
+784,PDCE,784,Energy
+785,BC,785,Consumer Cyclical
+786,HXL,786,Industrials
+787,STWD,787,Real Estate
+788,HALO,788,Healthcare
+789,THC,789,Healthcare
+790,CPRI,790,Consumer Cyclical
+791,SWN,791,Energy
+792,WWE,792,Communication Services
+793,MLCO,793,Consumer Cyclical
+794,XP,794,Financial Services
+795,MEDP,795,Healthcare
+796,PBF,796,Energy
+797,ONEX.TO,797,Financial Services
+798,ALK,798,Industrials
+799,VRT,799,Industrials
+800,CYBR,800,Technology
+801,AGNC,801,Real Estate
+802,M,802,Consumer Cyclical
+803,STAG,803,Real Estate
+804,IPGP,804,Technology
+805,WWD,805,Industrials
+806,COUP,806,Technology
+807,ESTC,807,Technology
+808,ROIV,808,Healthcare
+809,GTLS,809,Industrials
+810,OSK,810,Industrials
+811,GIL,811,Consumer Cyclical
+812,LNW,812,Consumer Cyclical
+813,ATKR,813,Industrials
+814,OPCH,814,Healthcare
+815,MP,815,Basic Materials
+816,AQUA,816,Industrials
+817,SNV,817,Financial Services
+818,GWRE,818,Technology
+819,SBSW,819,Basic Materials
+820,CHRD,820,Energy
+821,MGY,821,Energy
+822,DISH,822,Communication Services
+823,FOUR,823,Technology
+824,SMAR,824,Technology
+825,WTS,825,Industrials
+826,TXG,826,Healthcare
+827,NYCB,827,Financial Services
+828,CIVI,828,Energy
+829,SRC,829,Real Estate
+830,TREX,830,Industrials
+831,SLAB,831,Technology
+832,CACC,832,Financial Services
+833,VLY,833,Financial Services
+834,VAC,834,Consumer Cyclical
+835,AMG,835,Financial Services
+836,COV.PA,836,Real Estate
+837,CRUS,837,Technology
+838,COHR,838,Technology
+839,FSK,839,Financial Services
+840,APG,840,Industrials
+841,FAF,841,Financial Services
+842,FR.PA,842,Consumer Cyclical
+843,UNVR,843,Basic Materials
+844,AGI.TO,844,Basic Materials
+845,PNFP,845,Financial Services
+846,HUN,846,Basic Materials
+847,EEFT,847,Technology
+848,AIT,848,Industrials
+849,WTFC,849,Financial Services
+850,ATI,850,Industrials
+851,WIX,851,Technology
+852,EXLS,852,Technology
+853,CSAN,853,Energy
+854,IAA,854,Industrials
+855,CPG.TO,855,Energy
+856,HGV,856,Consumer Cyclical
+857,ENLC,857,Energy
+858,IIVI,858,Technology
+859,RIG,859,Energy
+860,CC,860,Basic Materials
+861,RJF-PA,861,
+862,IGT,862,Consumer Cyclical
+863,RJF-PB,863,
+864,NOVT,864,Technology
+865,FIX,865,Industrials
+866,UBSI,866,Financial Services
+867,SOFI,867,Financial Services
+868,BPYPO,868,Real Estate
+869,UFPI,869,Basic Materials
+870,FLR,870,Industrials
+871,DRH-PA,871,Real Estate
+872,RUN,872,Technology
+873,EXP,873,Basic Materials
+874,LNC,874,Financial Services
+875,FTT.TO,875,Industrials
+876,PSK.TO,876,Energy
+877,IAF-PB.TO,877,Financial Services
+878,RHP,878,Real Estate
+879,PVH,879,Consumer Cyclical
+880,ABG,880,Consumer Cyclical
+881,PKI.TO,881,Energy
+882,ALTR,882,Technology
+883,OMF,883,Financial Services
+884,SMCI,884,Technology
+885,GRT-UN.TO,885,Real Estate
+886,SOI.PA,886,Technology
+887,SNDR,887,Industrials
+888,WING,888,Consumer Cyclical
+889,AM,889,Energy
+890,OZK,890,Financial Services
+891,SNC.TO,891,Industrials
+892,AUY,892,Basic Materials
+893,SNV-PD,893,Financial Services
+894,EVR,894,Financial Services
+895,ATS.TO,895,Industrials
+896,FNB,896,Financial Services
+897,MX.TO,897,Basic Materials
+898,ESI,898,Basic Materials
+899,TENB,899,Technology
+900,BPYPN,900,Real Estate
+901,ATE.PA,901,Technology
+902,RF.PA,902,Financial Services
+903,MTSI,903,Technology
+904,TNET,904,Industrials
+905,SHC,905,Healthcare
+906,BFAM,906,Consumer Cyclical
+907,BBD-PC.TO,907,Industrials
+908,LAC.TO,908,Basic Materials
+909,VNOM,909,Energy
+910,HOMB,910,Financial Services
+911,THO,911,Consumer Cyclical
+912,SID,912,Basic Materials
+913,WK,913,Technology
+914,CIGI,914,Real Estate
+915,PENN,915,Consumer Cyclical
+916,WFRD,916,Energy
+917,DEC.PA,917,Communication Services
+918,ERF.TO,918,Energy
+919,BIPC,919,Utilities
+920,SSD,920,Industrials
+921,POWI,921,Technology
+922,AL,922,Industrials
+923,CS.TO,923,Basic Materials
+924,RMBS,924,Technology
+925,BSLI4.SA,925,Financial Services
+926,PTON,926,Consumer Cyclical
+927,NVEI,927,Technology
+928,KRG,928,Real Estate
+929,SMG,929,Basic Materials
+930,CADE,930,Financial Services
+931,IAC,931,Communication Services
+932,ESNT,932,Financial Services
+933,ASO,933,Consumer Cyclical
+934,BSLI3.SA,934,Financial Services
+935,CBT,935,Basic Materials
+936,SRU-UN.TO,936,Real Estate
+937,SYNA,937,Technology
+938,LNR.TO,938,Consumer Cyclical
+939,HP,939,Energy
+940,AF.PA,940,Industrials
+941,BE,941,Industrials
