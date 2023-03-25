@@ -16,6 +16,8 @@ A concise description of the 'mechanics' of GMM can be found in this Wikipedia a
 The results are less promising than expected. Nonetheless, this article may provide interested readers with useful ideas for their own investigations.
 You can access the dataset and the code in this Github repository. 
 
+[Under construction: Comparison with K-means]
+
 ## Data 
 Half-hourly share price data is generated through Financial Modelling Prep's API. I these data in the respository's "data.csv" file, with its
 columns: 333 consecutive datapoints covering half-hourly stock price data (usually between 9am and 16pm the same day) ranging from 13 February 2023 to 17 March 2023. The column names are anonymised.
