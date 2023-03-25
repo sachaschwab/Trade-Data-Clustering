@@ -23,8 +23,13 @@ The sectors the companies belong to are mapped in a seperate csv file "sectors.c
 
 ### Sources:
 [1] Taushanov, Zh., Ghisletta, P.: The Use of a Hidden Mixture Transition Distribution Model in Clustering Few but Long Continuous Sequences: An Illustration with Cognitive Skills Data', research article, University of Geneva, September 2020
+
 [2] Nielsen, A.: Practical Time Series Analysis, O'Reilly Media, 2020
+
 [3] Ram, N; Grimm, K.J.: Growth Mixture Modeling: A Method for Identifying Differences in Longitudinal Change Among Unobserved Groups; Int J Behav Dev. 2009; 33(6): 565–57, July 2022
+
 [4] Kwon, JY., Sawatzky, R., Baumbusch, J. et al.: Growth mixture models: a case example of the longitudinal analysis of patient‐reported outcomes data captured by a clinical registry, MC Med Res Methodol 21, 79 (2021). https://doi.org/10.1186/s12874-021-01276-z
+
 [5] Kumar, A.: Gaussian Mixture Models: What are they & when to use?, blog post, April 2022
+
 [6] VanderPlas, J.: Python Data Science Handbook, second edition, O'Reilly media, 2023
