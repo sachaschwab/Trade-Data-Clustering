@@ -1,5 +1,4 @@
 # Clustering of Stock Price Data using Agglomerative Clustering and GMM
-[under construction]
 
 Analysing stock price time series comes with various challenges. One of them is the question of whether stock prices behave similarly depending on the economic sectors and industries.
 In this article I investigate whether we can employ unsupervised clustering on the development of stock price over time.
