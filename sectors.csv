@@ -1,943 +1,943 @@
-,symbol_anonymised,sector
-0,0,Financial Services
-1,1,Technology
-2,2,Communication Services
-3,3,Communication Services
-4,4,Consumer Cyclical
-5,5,Consumer Cyclical
-6,6,Technology
-7,7,Communication Services
-8,8,Technology
-9,9,Energy
-10,10,Consumer Cyclical
-11,11,Financial Services
-12,12,Financial Services
-13,13,Energy
-14,14,Financial Services
-15,15,Financial Services
-16,16,Energy
-17,17,Financial Services
-18,18,Utilities
-19,19,Financial Services
-20,20,Financial Services
-21,21,Technology
-22,22,Financial Services
-23,23,Financial Services
-24,24,Technology
-25,25,Financial Services
-26,26,Financial Services
-27,27,Financial Services
-28,28,Technology
-29,29,Financial Services
-30,30,Financial Services
-31,31,Consumer Cyclical
-32,32,Technology
-33,33,Financial Services
-34,34,Financial Services
-35,35,Communication Services
-36,36,Financial Services
-37,37,Financial Services
-38,38,Financial Services
-39,39,Technology
-40,40,Financial Services
-41,41,Financial Services
-42,42,Industrials
-43,43,Technology
-44,44,Technology
-45,45,Communication Services
-46,46,Financial Services
-47,47,Consumer Cyclical
-48,48,Financial Services
-49,49,Financial Services
-50,50,Financial Services
-51,51,Communication Services
-52,52,Technology
-53,53,Technology
-54,54,Financial Services
-55,55,Energy
-56,56,Industrials
-57,57,Industrials
-58,58,Technology
-59,59,Industrials
-60,60,Industrials
-61,61,Industrials
-62,62,Industrials
-63,63,Consumer Defensive
-64,64,Financial Services
-65,65,Industrials
-66,66,Consumer Cyclical
-67,67,Financial Services
-68,68,Real Estate
-69,69,Industrials
-70,70,Consumer Defensive
-71,71,Financial Services
-72,72,Financial Services
-73,73,Financial Services
-74,74,Industrials
-75,75,Financial Services
-76,76,Financial Services
-77,77,Technology
-78,78,Consumer Cyclical
-79,79,Industrials
-80,80,Technology
-81,81,Industrials
-82,82,Consumer Cyclical
-83,83,Energy
-84,84,Industrials
-85,85,Industrials
-86,86,Financial Services
-87,87,Financial Services
-88,88,Consumer Cyclical
-89,89,Consumer Cyclical
-90,90,Healthcare
-91,91,Energy
-92,92,Consumer Cyclical
-93,93,Financial Services
-94,94,Financial Services
-95,95,Financial Services
-96,96,Consumer Defensive
-97,97,
-98,98,Financial Services
-99,99,
-100,100,
-101,101,Financial Services
-102,102,Financial Services
-103,103,Technology
-104,104,Energy
-105,105,Financial Services
-106,106,Consumer Cyclical
-107,107,Financial Services
-108,108,Industrials
-109,109,Financial Services
-110,110,Energy
-111,111,Industrials
-112,112,Financial Services
-113,113,Technology
-114,114,Healthcare
-115,115,Financial Services
-116,116,Financial Services
-117,117,Financial Services
-118,118,Financial Services
-119,119,Financial Services
-120,120,Financial Services
-121,121,Energy
-122,122,Technology
-123,123,Financial Services
-124,124,Financial Services
-125,125,Financial Services
-126,126,Financial Services
-127,127,Financial Services
-128,128,Industrials
-129,129,Financial Services
-130,130,Financial Services
-131,131,Energy
-132,132,Industrials
-133,133,Basic Materials
-134,134,Financial Services
-135,135,Technology
-136,136,Financial Services
-137,137,Financial Services
-138,138,Basic Materials
-139,139,Consumer Cyclical
-140,140,Financial Services
-141,141,Energy
-142,142,Financial Services
-143,143,Basic Materials
-144,144,Industrials
-145,145,Technology
-146,146,Consumer Cyclical
-147,147,Financial Services
-148,148,Communication Services
-149,149,Technology
-150,150,Financial Services
-151,151,Energy
-152,152,Technology
-153,153,Financial Services
-154,154,Healthcare
-155,155,Financial Services
-156,156,Financial Services
-157,157,Financial Services
-158,158,Technology
-159,159,Consumer Cyclical
-160,160,Technology
-161,161,Industrials
-162,162,Energy
-163,163,Industrials
-164,164,Financial Services
-165,165,Consumer Cyclical
-166,166,Financial Services
-167,167,Energy
-168,168,Real Estate
-169,169,Energy
-170,170,Technology
-171,171,Energy
-172,172,Financial Services
-173,173,Industrials
-174,174,Technology
-175,175,Basic Materials
-176,176,Energy
-177,177,Basic Materials
-178,178,Technology
-179,179,Healthcare
-180,180,Financial Services
-181,181,Technology
-182,182,Technology
-183,183,Energy
-184,184,Financial Services
-185,185,Consumer Cyclical
-186,186,Real Estate
-187,187,Industrials
-188,188,Energy
-189,189,Industrials
-190,190,Technology
-191,191,Basic Materials
-192,192,Industrials
-193,193,Industrials
-194,194,Technology
-195,195,Financial Services
-196,196,Industrials
-197,197,Financial Services
-198,198,Financial Services
-199,199,Financial Services
-200,200,Technology
-201,201,Financial Services
-202,202,Energy
-203,203,Financial Services
-204,204,Technology
-205,205,Financial Services
-206,206,Financial Services
-207,207,Healthcare
-208,208,Financial Services
-209,209,Financial Services
-210,210,Financial Services
-211,211,Industrials
-212,212,Financial Services
-213,213,Consumer Cyclical
-214,214,Financial Services
-215,215,Technology
-216,216,Consumer Defensive
-217,217,Basic Materials
-218,218,Healthcare
-219,219,Technology
-220,220,Energy
-221,221,Healthcare
-222,222,Consumer Cyclical
-223,223,Energy
-224,224,Energy
-225,225,Industrials
-226,226,Consumer Cyclical
-227,227,Industrials
-228,228,Consumer Defensive
-229,229,Energy
-230,230,Technology
-231,231,Communication Services
-232,232,Financial Services
-233,233,Utilities
-234,234,Energy
-235,235,Energy
-236,236,Real Estate
-237,237,Consumer Cyclical
-238,238,Financial Services
-239,239,Industrials
-240,240,Financial Services
-241,241,Financial Services
-242,242,Consumer Cyclical
-243,243,Energy
-244,244,Industrials
-245,245,Healthcare
-246,246,Energy
-247,247,Financial Services
-248,248,Industrials
-249,249,Financial Services
-250,250,Financial Services
-251,251,Real Estate
-252,252,Basic Materials
-253,253,Technology
-254,254,Consumer Cyclical
-255,255,Financial Services
-256,256,Utilities
-257,257,Healthcare
-258,258,Financial Services
-259,259,Industrials
-260,260,Industrials
-261,261,Energy
-262,262,Technology
-263,263,Basic Materials
-264,264,Consumer Cyclical
-265,265,Consumer Cyclical
-266,266,Technology
-267,267,Basic Materials
-268,268,Financial Services
-269,269,Financial Services
-270,270,Financial Services
-271,271,Technology
-272,272,Basic Materials
-273,273,Financial Services
-274,274,Industrials
-275,275,Basic Materials
-276,276,Energy
-277,277,Energy
-278,278,Industrials
-279,279,Technology
-280,280,Financial Services
-281,281,Financial Services
-282,282,Technology
-283,283,Industrials
-284,284,Technology
-285,285,Energy
-286,286,Basic Materials
-287,287,
-288,288,Technology
-289,289,Financial Services
-290,290,Technology
-291,291,Technology
-292,292,Energy
-293,293,Consumer Cyclical
-294,294,Financial Services
-295,295,Consumer Cyclical
-296,296,Consumer Cyclical
-297,297,Energy
-298,298,Financial Services
-299,299,Energy
-300,300,Basic Materials
-301,301,Technology
-302,302,Real Estate
-303,303,Technology
-304,304,Energy
-305,305,Energy
-306,306,
-307,307,Consumer Cyclical
-308,308,Healthcare
-309,309,Technology
-310,310,Financial Services
-311,311,Basic Materials
-312,312,Healthcare
-313,313,Financial Services
-314,314,Basic Materials
-315,315,Energy
-316,316,Financial Services
-317,317,Financial Services
-318,318,Industrials
-319,319,Basic Materials
-320,320,Healthcare
-321,321,Industrials
-322,322,Financial Services
-323,323,Consumer Cyclical
-324,324,Consumer Cyclical
-325,325,Financial Services
-326,326,Financial Services
-327,327,Industrials
-328,328,Healthcare
-329,329,Basic Materials
-330,330,Industrials
-331,331,Technology
-332,332,Communication Services
-333,333,Basic Materials
-334,334,Basic Materials
-335,335,Technology
-336,336,Financial Services
-337,337,Industrials
-338,338,Financial Services
-339,339,Real Estate
-340,340,Financial Services
-341,341,Industrials
-342,342,Financial Services
-343,343,Industrials
-344,344,Technology
-345,345,Communication Services
-346,346,Consumer Cyclical
-347,347,Industrials
-348,348,Financial Services
-349,349,Financial Services
-350,350,Financial Services
-351,351,Basic Materials
-352,352,Industrials
-353,353,Basic Materials
-354,354,Financial Services
-355,355,Financial Services
-356,356,Healthcare
-357,357,Technology
-358,358,Financial Services
-359,359,Industrials
-360,360,Communication Services
-361,361,Industrials
-362,362,Energy
-363,363,Energy
-364,364,Technology
-365,365,Energy
-366,366,Technology
-367,367,Industrials
-368,368,Technology
-369,369,Industrials
-370,370,Financial Services
-371,371,Healthcare
-372,372,Technology
-373,373,Financial Services
-374,374,Consumer Defensive
-375,375,Basic Materials
-376,376,Real Estate
-377,377,Basic Materials
-378,378,Industrials
-379,379,Industrials
-380,380,Healthcare
-381,381,Financial Services
-382,382,Financial Services
-383,383,Consumer Cyclical
-384,384,Energy
-385,385,Industrials
-386,386,Financial Services
-387,387,Consumer Cyclical
-388,388,Technology
-389,389,Consumer Cyclical
-390,390,Utilities
-391,391,Technology
-392,392,Industrials
-393,393,Financial Services
-394,394,Energy
-395,395,Consumer Cyclical
-396,396,Technology
-397,397,Financial Services
-398,398,Technology
-399,399,Technology
-400,400,Financial Services
-401,401,Technology
-402,402,Consumer Cyclical
-403,403,Communication Services
-404,404,Industrials
-405,405,Communication Services
-406,406,Consumer Cyclical
-407,407,Financial Services
-408,408,Financial Services
-409,409,Financial Services
-410,410,Basic Materials
-411,411,Communication Services
-412,412,Basic Materials
-413,413,Communication Services
-414,414,Financial Services
-415,415,Financial Services
-416,416,Energy
-417,417,Consumer Cyclical
-418,418,Healthcare
-419,419,Consumer Cyclical
-420,420,Technology
-421,421,Communication Services
-422,422,Industrials
-423,423,Technology
-424,424,Consumer Cyclical
-425,425,Consumer Cyclical
-426,426,Technology
-427,427,Technology
-428,428,Technology
-429,429,Financial Services
-430,430,Basic Materials
-431,431,Technology
-432,432,Industrials
-433,433,Financial Services
-434,434,Technology
-435,435,Consumer Cyclical
-436,436,Energy
-437,437,Financial Services
-438,438,Industrials
-439,439,Financial Services
-440,440,Financial Services
-441,441,Consumer Cyclical
-442,442,Basic Materials
-443,443,Technology
-444,444,Communication Services
-445,445,Communication Services
-446,446,Financial Services
-447,447,Technology
-448,448,Industrials
-449,449,Industrials
-450,450,Consumer Cyclical
-451,451,Real Estate
-452,452,Financial Services
-453,453,Technology
-454,454,Consumer Cyclical
-455,455,Energy
-456,456,Financial Services
-457,457,Communication Services
-458,458,Financial Services
-459,459,Financial Services
-460,460,Technology
-461,461,Financial Services
-462,462,Communication Services
-463,463,Industrials
-464,464,Industrials
-465,465,Basic Materials
-466,466,Healthcare
-467,467,Financial Services
-468,468,Healthcare
-469,469,Industrials
-470,470,Technology
-471,471,Communication Services
-472,472,Technology
-473,473,Industrials
-474,474,Consumer Cyclical
-475,475,Consumer Cyclical
-476,476,Consumer Cyclical
-477,477,Industrials
-478,478,Consumer Cyclical
-479,479,Real Estate
-480,480,Technology
-481,481,Basic Materials
-482,482,Real Estate
-483,483,Technology
-484,484,Technology
-485,485,Financial Services
-486,486,Basic Materials
-487,487,Energy
-488,488,Financial Services
-489,489,Real Estate
-490,490,Communication Services
-491,491,Real Estate
-492,492,Communication Services
-493,493,Industrials
-494,494,Technology
-495,495,Real Estate
-496,496,Industrials
-497,497,Consumer Cyclical
-498,498,Energy
-499,499,Real Estate
-500,500,Technology
-501,501,Technology
-502,502,Healthcare
-503,503,Technology
-504,504,Consumer Cyclical
-505,505,Real Estate
-506,506,Technology
-507,507,Healthcare
-508,508,Industrials
-509,509,Consumer Cyclical
-510,510,Healthcare
-511,511,Real Estate
-512,512,Technology
-513,513,Basic Materials
-514,514,Consumer Cyclical
-515,515,Financial Services
-516,516,Communication Services
-517,517,Technology
-518,518,Consumer Cyclical
-519,519,Technology
-520,520,Energy
-521,521,Technology
-522,522,Healthcare
-523,523,Basic Materials
-524,524,Consumer Cyclical
-525,525,Healthcare
-526,526,Real Estate
-527,527,Consumer Cyclical
-528,528,Real Estate
-529,529,Industrials
-530,530,Real Estate
-531,531,Industrials
-532,532,Real Estate
-533,533,Industrials
-534,534,Real Estate
-535,535,Industrials
-536,536,Industrials
-537,537,Industrials
-538,538,Technology
-539,539,Financial Services
-540,540,Industrials
-541,541,Consumer Cyclical
-542,542,Consumer Cyclical
-543,543,Financial Services
-544,544,Healthcare
-545,545,Energy
-546,546,Basic Materials
-547,547,Financial Services
-548,548,Financial Services
-549,549,Technology
-550,550,Consumer Cyclical
-551,551,Real Estate
-552,552,Industrials
-553,553,Communication Services
-554,554,Technology
-555,555,Consumer Defensive
-556,556,Communication Services
-557,557,Consumer Cyclical
-558,558,Consumer Cyclical
-559,559,Financial Services
-560,560,Consumer Cyclical
-561,561,Technology
-562,562,Financial Services
-563,563,Real Estate
-564,564,Communication Services
-565,565,Industrials
-566,566,Communication Services
-567,567,Basic Materials
-568,568,Real Estate
-569,569,Industrials
-570,570,Industrials
-571,571,Consumer Cyclical
-572,572,Industrials
-573,573,Communication Services
-574,574,Communication Services
-575,575,Basic Materials
-576,576,Consumer Defensive
-577,577,Energy
-578,578,Industrials
-579,579,Basic Materials
-580,580,Communication Services
-581,581,Consumer Cyclical
-582,582,Basic Materials
-583,583,Consumer Cyclical
-584,584,Technology
-585,585,Real Estate
-586,586,Communication Services
-587,587,Technology
-588,588,Industrials
-589,589,Consumer Defensive
-590,590,Communication Services
-591,591,Energy
-592,592,Real Estate
-593,593,Basic Materials
-594,594,Real Estate
-595,595,Industrials
-596,596,Communication Services
-597,597,Consumer Cyclical
-598,598,Industrials
-599,599,Technology
-600,600,Communication Services
-601,601,Industrials
-602,602,Financial Services
-603,603,Consumer Cyclical
-604,604,Technology
-605,605,Industrials
-606,606,Real Estate
-607,607,Financial Services
-608,608,Basic Materials
-609,609,Financial Services
-610,610,Energy
-611,611,Technology
-612,612,Healthcare
-613,613,Financial Services
-614,614,Consumer Cyclical
-615,615,Consumer Defensive
-616,616,Basic Materials
-617,617,Financial Services
-618,618,Financial Services
-619,619,Basic Materials
-620,620,Industrials
-621,621,Real Estate
-622,622,Energy
-623,623,Industrials
-624,624,Technology
-625,625,Real Estate
-626,626,Real Estate
-627,627,Energy
-628,628,Technology
-629,629,Consumer Cyclical
-630,630,Technology
-631,631,Consumer Defensive
-632,632,Communication Services
-633,633,Healthcare
-634,634,Financial Services
-635,635,Consumer Cyclical
-636,636,Technology
-637,637,Financial Services
-638,638,Financial Services
-639,639,Industrials
-640,640,Technology
-641,641,Consumer Cyclical
-642,642,Consumer Cyclical
-643,643,Consumer Cyclical
-644,644,Financial Services
-645,645,Real Estate
-646,646,Real Estate
-647,647,Consumer Cyclical
-648,648,Basic Materials
-649,649,Consumer Cyclical
-650,650,Consumer Cyclical
-651,651,Consumer Cyclical
-652,652,Financial Services
-653,653,Industrials
-654,654,Financial Services
-655,655,Real Estate
-656,656,Industrials
-657,657,Energy
-658,658,Industrials
-659,659,Industrials
-660,660,Industrials
-661,661,Technology
-662,662,Financial Services
-663,663,Financial Services
-664,664,Basic Materials
-665,665,Communication Services
-666,666,Utilities
-667,667,Technology
-668,668,Consumer Cyclical
-669,669,Industrials
-670,670,Real Estate
-671,671,Industrials
-672,672,Industrials
-673,673,Consumer Cyclical
-674,674,Consumer Cyclical
-675,675,Financial Services
-676,676,Industrials
-677,677,Industrials
-678,678,Healthcare
-679,679,Technology
-680,680,Industrials
-681,681,Consumer Cyclical
-682,682,Utilities
-683,683,Financial Services
-684,684,Industrials
-685,685,Technology
-686,686,Technology
-687,687,Financial Services
-688,688,Basic Materials
-689,689,Financial Services
-690,690,Industrials
-691,691,Consumer Cyclical
-692,692,Technology
-693,693,Basic Materials
-694,694,Industrials
-695,695,Industrials
-696,696,Financial Services
-697,697,Financial Services
-698,698,Industrials
-699,699,Financial Services
-700,700,Industrials
-701,701,Consumer Defensive
-702,702,Healthcare
-703,703,Consumer Cyclical
-704,704,Consumer Defensive
-705,705,Financial Services
-706,706,Real Estate
-707,707,Technology
-708,708,Industrials
-709,709,Consumer Cyclical
-710,710,Financial Services
-711,711,Consumer Cyclical
-712,712,Industrials
-713,713,Basic Materials
-714,714,Real Estate
-715,715,Energy
-716,716,Consumer Cyclical
-717,717,Real Estate
-718,718,Financial Services
-719,719,Consumer Cyclical
-720,720,Basic Materials
-721,721,Real Estate
-722,722,Technology
-723,723,Industrials
-724,724,Financial Services
-725,725,Energy
-726,726,Financial Services
-727,727,Consumer Cyclical
-728,728,Industrials
-729,729,Financial Services
-730,730,Financial Services
-731,731,Communication Services
-732,732,Financial Services
-733,733,Energy
-734,734,Real Estate
-735,735,Consumer Cyclical
-736,736,Real Estate
-737,737,Basic Materials
-738,738,Consumer Cyclical
-739,739,Energy
-740,740,Consumer Cyclical
-741,741,Energy
-742,742,Industrials
-743,743,Communication Services
-744,744,Real Estate
-745,745,Consumer Cyclical
-746,746,Healthcare
-747,747,Consumer Cyclical
-748,748,Technology
-749,749,Technology
-750,750,Consumer Cyclical
-751,751,Healthcare
-752,752,Energy
-753,753,Technology
-754,754,Utilities
-755,755,Industrials
-756,756,Financial Services
-757,757,Energy
-758,758,Real Estate
-759,759,Industrials
-760,760,Consumer Cyclical
-761,761,Consumer Cyclical
-762,762,Energy
-763,763,Consumer Cyclical
-764,764,Utilities
-765,765,Consumer Cyclical
-766,766,Technology
-767,767,Real Estate
-768,768,Technology
-769,769,Energy
-770,770,Industrials
-771,771,Technology
-772,772,Technology
-773,773,Healthcare
-774,774,Energy
-775,775,Real Estate
-776,776,Consumer Cyclical
-777,777,Technology
-778,778,Industrials
-779,779,Communication Services
-780,780,Energy
-781,781,Basic Materials
-782,782,Healthcare
-783,783,Industrials
-784,784,Energy
-785,785,Consumer Cyclical
-786,786,Industrials
-787,787,Real Estate
-788,788,Healthcare
-789,789,Healthcare
-790,790,Consumer Cyclical
-791,791,Energy
-792,792,Communication Services
-793,793,Consumer Cyclical
-794,794,Financial Services
-795,795,Healthcare
-796,796,Energy
-797,797,Financial Services
-798,798,Industrials
-799,799,Industrials
-800,800,Technology
-801,801,Real Estate
-802,802,Consumer Cyclical
-803,803,Real Estate
-804,804,Technology
-805,805,Industrials
-806,806,Technology
-807,807,Technology
-808,808,Healthcare
-809,809,Industrials
-810,810,Industrials
-811,811,Consumer Cyclical
-812,812,Consumer Cyclical
-813,813,Industrials
-814,814,Healthcare
-815,815,Basic Materials
-816,816,Industrials
-817,817,Financial Services
-818,818,Technology
-819,819,Basic Materials
-820,820,Energy
-821,821,Energy
-822,822,Communication Services
-823,823,Technology
-824,824,Technology
-825,825,Industrials
-826,826,Healthcare
-827,827,Financial Services
-828,828,Energy
-829,829,Real Estate
-830,830,Industrials
-831,831,Technology
-832,832,Financial Services
-833,833,Financial Services
-834,834,Consumer Cyclical
-835,835,Financial Services
-836,836,Real Estate
-837,837,Technology
-838,838,Technology
-839,839,Financial Services
-840,840,Industrials
-841,841,Financial Services
-842,842,Consumer Cyclical
-843,843,Basic Materials
-844,844,Basic Materials
-845,845,Financial Services
-846,846,Basic Materials
-847,847,Technology
-848,848,Industrials
-849,849,Financial Services
-850,850,Industrials
-851,851,Technology
-852,852,Technology
-853,853,Energy
-854,854,Industrials
-855,855,Energy
-856,856,Consumer Cyclical
-857,857,Energy
-858,858,Technology
-859,859,Energy
-860,860,Basic Materials
-861,861,
-862,862,Consumer Cyclical
-863,863,
-864,864,Technology
-865,865,Industrials
-866,866,Financial Services
-867,867,Financial Services
-868,868,Real Estate
-869,869,Basic Materials
-870,870,Industrials
-871,871,Real Estate
-872,872,Technology
-873,873,Basic Materials
-874,874,Financial Services
-875,875,Industrials
-876,876,Energy
-877,877,Financial Services
-878,878,Real Estate
-879,879,Consumer Cyclical
-880,880,Consumer Cyclical
-881,881,Energy
-882,882,Technology
-883,883,Financial Services
-884,884,Technology
-885,885,Real Estate
-886,886,Technology
-887,887,Industrials
-888,888,Consumer Cyclical
-889,889,Energy
-890,890,Financial Services
-891,891,Industrials
-892,892,Basic Materials
-893,893,Financial Services
-894,894,Financial Services
-895,895,Industrials
-896,896,Financial Services
-897,897,Basic Materials
-898,898,Basic Materials
-899,899,Technology
-900,900,Real Estate
-901,901,Technology
-902,902,Financial Services
-903,903,Technology
-904,904,Industrials
-905,905,Healthcare
-906,906,Consumer Cyclical
-907,907,Industrials
-908,908,Basic Materials
-909,909,Energy
-910,910,Financial Services
-911,911,Consumer Cyclical
-912,912,Basic Materials
-913,913,Technology
-914,914,Real Estate
-915,915,Consumer Cyclical
-916,916,Energy
-917,917,Communication Services
-918,918,Energy
-919,919,Utilities
-920,920,Industrials
-921,921,Technology
-922,922,Industrials
-923,923,Basic Materials
-924,924,Technology
-925,925,Financial Services
-926,926,Consumer Cyclical
-927,927,Technology
-928,928,Real Estate
-929,929,Basic Materials
-930,930,Financial Services
-931,931,Communication Services
-932,932,Financial Services
-933,933,Consumer Cyclical
-934,934,Financial Services
-935,935,Basic Materials
-936,936,Real Estate
-937,937,Technology
-938,938,Consumer Cyclical
-939,939,Energy
-940,940,Industrials
-941,941,Industrials
+symbol_anonymised,sector
+0,Financial Services
+1,Technology
+2,Communication Services
+3,Communication Services
+4,Consumer Cyclical
+5,Consumer Cyclical
+6,Technology
+7,Communication Services
+8,Technology
+9,Energy
+10,Consumer Cyclical
+11,Financial Services
+12,Financial Services
+13,Energy
+14,Financial Services
+15,Financial Services
+16,Energy
+17,Financial Services
+18,Utilities
+19,Financial Services
+20,Financial Services
+21,Technology
+22,Financial Services
+23,Financial Services
+24,Technology
+25,Financial Services
+26,Financial Services
+27,Financial Services
+28,Technology
+29,Financial Services
+30,Financial Services
+31,Consumer Cyclical
+32,Technology
+33,Financial Services
+34,Financial Services
+35,Communication Services
+36,Financial Services
+37,Financial Services
+38,Financial Services
+39,Technology
+40,Financial Services
+41,Financial Services
+42,Industrials
+43,Technology
+44,Technology
+45,Communication Services
+46,Financial Services
+47,Consumer Cyclical
+48,Financial Services
+49,Financial Services
+50,Financial Services
+51,Communication Services
+52,Technology
+53,Technology
+54,Financial Services
+55,Energy
+56,Industrials
+57,Industrials
+58,Technology
+59,Industrials
+60,Industrials
+61,Industrials
+62,Industrials
+63,Consumer Defensive
+64,Financial Services
+65,Industrials
+66,Consumer Cyclical
+67,Financial Services
+68,Real Estate
+69,Industrials
+70,Consumer Defensive
+71,Financial Services
+72,Financial Services
+73,Financial Services
+74,Industrials
+75,Financial Services
+76,Financial Services
+77,Technology
+78,Consumer Cyclical
+79,Industrials
+80,Technology
+81,Industrials
+82,Consumer Cyclical
+83,Energy
+84,Industrials
+85,Industrials
+86,Financial Services
+87,Financial Services
+88,Consumer Cyclical
+89,Consumer Cyclical
+90,Healthcare
+91,Energy
+92,Consumer Cyclical
+93,Financial Services
+94,Financial Services
+95,Financial Services
+96,Consumer Defensive
+97,
+98,Financial Services
+99,
+100,
+101,Financial Services
+102,Financial Services
+103,Technology
+104,Energy
+105,Financial Services
+106,Consumer Cyclical
+107,Financial Services
+108,Industrials
+109,Financial Services
+110,Energy
+111,Industrials
+112,Financial Services
+113,Technology
+114,Healthcare
+115,Financial Services
+116,Financial Services
+117,Financial Services
+118,Financial Services
+119,Financial Services
+120,Financial Services
+121,Energy
+122,Technology
+123,Financial Services
+124,Financial Services
+125,Financial Services
+126,Financial Services
+127,Financial Services
+128,Industrials
+129,Financial Services
+130,Financial Services
+131,Energy
+132,Industrials
+133,Basic Materials
+134,Financial Services
+135,Technology
+136,Financial Services
+137,Financial Services
+138,Basic Materials
+139,Consumer Cyclical
+140,Financial Services
+141,Energy
+142,Financial Services
+143,Basic Materials
+144,Industrials
+145,Technology
+146,Consumer Cyclical
+147,Financial Services
+148,Communication Services
+149,Technology
+150,Financial Services
+151,Energy
+152,Technology
+153,Financial Services
+154,Healthcare
+155,Financial Services
+156,Financial Services
+157,Financial Services
+158,Technology
+159,Consumer Cyclical
+160,Technology
+161,Industrials
+162,Energy
+163,Industrials
+164,Financial Services
+165,Consumer Cyclical
+166,Financial Services
+167,Energy
+168,Real Estate
+169,Energy
+170,Technology
+171,Energy
+172,Financial Services
+173,Industrials
+174,Technology
+175,Basic Materials
+176,Energy
+177,Basic Materials
+178,Technology
+179,Healthcare
+180,Financial Services
+181,Technology
+182,Technology
+183,Energy
+184,Financial Services
+185,Consumer Cyclical
+186,Real Estate
+187,Industrials
+188,Energy
+189,Industrials
+190,Technology
+191,Basic Materials
+192,Industrials
+193,Industrials
+194,Technology
+195,Financial Services
+196,Industrials
+197,Financial Services
+198,Financial Services
+199,Financial Services
+200,Technology
+201,Financial Services
+202,Energy
+203,Financial Services
+204,Technology
+205,Financial Services
+206,Financial Services
+207,Healthcare
+208,Financial Services
+209,Financial Services
+210,Financial Services
+211,Industrials
+212,Financial Services
+213,Consumer Cyclical
+214,Financial Services
+215,Technology
+216,Consumer Defensive
+217,Basic Materials
+218,Healthcare
+219,Technology
+220,Energy
+221,Healthcare
+222,Consumer Cyclical
+223,Energy
+224,Energy
+225,Industrials
+226,Consumer Cyclical
+227,Industrials
+228,Consumer Defensive
+229,Energy
+230,Technology
+231,Communication Services
+232,Financial Services
+233,Utilities
+234,Energy
+235,Energy
+236,Real Estate
+237,Consumer Cyclical
+238,Financial Services
+239,Industrials
+240,Financial Services
+241,Financial Services
+242,Consumer Cyclical
+243,Energy
+244,Industrials
+245,Healthcare
+246,Energy
+247,Financial Services
+248,Industrials
+249,Financial Services
+250,Financial Services
+251,Real Estate
+252,Basic Materials
+253,Technology
+254,Consumer Cyclical
+255,Financial Services
+256,Utilities
+257,Healthcare
+258,Financial Services
+259,Industrials
+260,Industrials
+261,Energy
+262,Technology
+263,Basic Materials
+264,Consumer Cyclical
+265,Consumer Cyclical
+266,Technology
+267,Basic Materials
+268,Financial Services
+269,Financial Services
+270,Financial Services
+271,Technology
+272,Basic Materials
+273,Financial Services
+274,Industrials
+275,Basic Materials
+276,Energy
+277,Energy
+278,Industrials
+279,Technology
+280,Financial Services
+281,Financial Services
+282,Technology
+283,Industrials
+284,Technology
+285,Energy
+286,Basic Materials
+287,
+288,Technology
+289,Financial Services
+290,Technology
+291,Technology
+292,Energy
+293,Consumer Cyclical
+294,Financial Services
+295,Consumer Cyclical
+296,Consumer Cyclical
+297,Energy
+298,Financial Services
+299,Energy
+300,Basic Materials
+301,Technology
+302,Real Estate
+303,Technology
+304,Energy
+305,Energy
+306,
+307,Consumer Cyclical
+308,Healthcare
+309,Technology
+310,Financial Services
+311,Basic Materials
+312,Healthcare
+313,Financial Services
+314,Basic Materials
+315,Energy
+316,Financial Services
+317,Financial Services
+318,Industrials
+319,Basic Materials
+320,Healthcare
+321,Industrials
+322,Financial Services
+323,Consumer Cyclical
+324,Consumer Cyclical
+325,Financial Services
+326,Financial Services
+327,Industrials
+328,Healthcare
+329,Basic Materials
+330,Industrials
+331,Technology
+332,Communication Services
+333,Basic Materials
+334,Basic Materials
+335,Technology
+336,Financial Services
+337,Industrials
+338,Financial Services
+339,Real Estate
+340,Financial Services
+341,Industrials
+342,Financial Services
+343,Industrials
+344,Technology
+345,Communication Services
+346,Consumer Cyclical
+347,Industrials
+348,Financial Services
+349,Financial Services
+350,Financial Services
+351,Basic Materials
+352,Industrials
+353,Basic Materials
+354,Financial Services
+355,Financial Services
+356,Healthcare
+357,Technology
+358,Financial Services
+359,Industrials
+360,Communication Services
+361,Industrials
+362,Energy
+363,Energy
+364,Technology
+365,Energy
+366,Technology
+367,Industrials
+368,Technology
+369,Industrials
+370,Financial Services
+371,Healthcare
+372,Technology
+373,Financial Services
+374,Consumer Defensive
+375,Basic Materials
+376,Real Estate
+377,Basic Materials
+378,Industrials
+379,Industrials
+380,Healthcare
+381,Financial Services
+382,Financial Services
+383,Consumer Cyclical
+384,Energy
+385,Industrials
+386,Financial Services
+387,Consumer Cyclical
+388,Technology
+389,Consumer Cyclical
+390,Utilities
+391,Technology
+392,Industrials
+393,Financial Services
+394,Energy
+395,Consumer Cyclical
+396,Technology
+397,Financial Services
+398,Technology
+399,Technology
+400,Financial Services
+401,Technology
+402,Consumer Cyclical
+403,Communication Services
+404,Industrials
+405,Communication Services
+406,Consumer Cyclical
+407,Financial Services
+408,Financial Services
+409,Financial Services
+410,Basic Materials
+411,Communication Services
+412,Basic Materials
+413,Communication Services
+414,Financial Services
+415,Financial Services
+416,Energy
+417,Consumer Cyclical
+418,Healthcare
+419,Consumer Cyclical
+420,Technology
+421,Communication Services
+422,Industrials
+423,Technology
+424,Consumer Cyclical
+425,Consumer Cyclical
+426,Technology
+427,Technology
+428,Technology
+429,Financial Services
+430,Basic Materials
+431,Technology
+432,Industrials
+433,Financial Services
+434,Technology
+435,Consumer Cyclical
+436,Energy
+437,Financial Services
+438,Industrials
+439,Financial Services
+440,Financial Services
+441,Consumer Cyclical
+442,Basic Materials
+443,Technology
+444,Communication Services
+445,Communication Services
+446,Financial Services
+447,Technology
+448,Industrials
+449,Industrials
+450,Consumer Cyclical
+451,Real Estate
+452,Financial Services
+453,Technology
+454,Consumer Cyclical
+455,Energy
+456,Financial Services
+457,Communication Services
+458,Financial Services
+459,Financial Services
+460,Technology
+461,Financial Services
+462,Communication Services
+463,Industrials
+464,Industrials
+465,Basic Materials
+466,Healthcare
+467,Financial Services
+468,Healthcare
+469,Industrials
+470,Technology
+471,Communication Services
+472,Technology
+473,Industrials
+474,Consumer Cyclical
+475,Consumer Cyclical
+476,Consumer Cyclical
+477,Industrials
+478,Consumer Cyclical
+479,Real Estate
+480,Technology
+481,Basic Materials
+482,Real Estate
+483,Technology
+484,Technology
+485,Financial Services
+486,Basic Materials
+487,Energy
+488,Financial Services
+489,Real Estate
+490,Communication Services
+491,Real Estate
+492,Communication Services
+493,Industrials
+494,Technology
+495,Real Estate
+496,Industrials
+497,Consumer Cyclical
+498,Energy
+499,Real Estate
+500,Technology
+501,Technology
+502,Healthcare
+503,Technology
+504,Consumer Cyclical
+505,Real Estate
+506,Technology
+507,Healthcare
+508,Industrials
+509,Consumer Cyclical
+510,Healthcare
+511,Real Estate
+512,Technology
+513,Basic Materials
+514,Consumer Cyclical
+515,Financial Services
+516,Communication Services
+517,Technology
+518,Consumer Cyclical
+519,Technology
+520,Energy
+521,Technology
+522,Healthcare
+523,Basic Materials
+524,Consumer Cyclical
+525,Healthcare
+526,Real Estate
+527,Consumer Cyclical
+528,Real Estate
+529,Industrials
+530,Real Estate
+531,Industrials
+532,Real Estate
+533,Industrials
+534,Real Estate
+535,Industrials
+536,Industrials
+537,Industrials
+538,Technology
+539,Financial Services
+540,Industrials
+541,Consumer Cyclical
+542,Consumer Cyclical
+543,Financial Services
+544,Healthcare
+545,Energy
+546,Basic Materials
+547,Financial Services
+548,Financial Services
+549,Technology
+550,Consumer Cyclical
+551,Real Estate
+552,Industrials
+553,Communication Services
+554,Technology
+555,Consumer Defensive
+556,Communication Services
+557,Consumer Cyclical
+558,Consumer Cyclical
+559,Financial Services
+560,Consumer Cyclical
+561,Technology
+562,Financial Services
+563,Real Estate
+564,Communication Services
+565,Industrials
+566,Communication Services
+567,Basic Materials
+568,Real Estate
+569,Industrials
+570,Industrials
+571,Consumer Cyclical
+572,Industrials
+573,Communication Services
+574,Communication Services
+575,Basic Materials
+576,Consumer Defensive
+577,Energy
+578,Industrials
+579,Basic Materials
+580,Communication Services
+581,Consumer Cyclical
+582,Basic Materials
+583,Consumer Cyclical
+584,Technology
+585,Real Estate
+586,Communication Services
+587,Technology
+588,Industrials
+589,Consumer Defensive
+590,Communication Services
+591,Energy
+592,Real Estate
+593,Basic Materials
+594,Real Estate
+595,Industrials
+596,Communication Services
+597,Consumer Cyclical
+598,Industrials
+599,Technology
+600,Communication Services
+601,Industrials
+602,Financial Services
+603,Consumer Cyclical
+604,Technology
+605,Industrials
+606,Real Estate
+607,Financial Services
+608,Basic Materials
+609,Financial Services
+610,Energy
+611,Technology
+612,Healthcare
+613,Financial Services
+614,Consumer Cyclical
+615,Consumer Defensive
+616,Basic Materials
+617,Financial Services
+618,Financial Services
+619,Basic Materials
+620,Industrials
+621,Real Estate
+622,Energy
+623,Industrials
+624,Technology
+625,Real Estate
+626,Real Estate
+627,Energy
+628,Technology
+629,Consumer Cyclical
+630,Technology
+631,Consumer Defensive
+632,Communication Services
+633,Healthcare
+634,Financial Services
+635,Consumer Cyclical
+636,Technology
+637,Financial Services
+638,Financial Services
+639,Industrials
+640,Technology
+641,Consumer Cyclical
+642,Consumer Cyclical
+643,Consumer Cyclical
+644,Financial Services
+645,Real Estate
+646,Real Estate
+647,Consumer Cyclical
+648,Basic Materials
+649,Consumer Cyclical
+650,Consumer Cyclical
+651,Consumer Cyclical
+652,Financial Services
+653,Industrials
+654,Financial Services
+655,Real Estate
+656,Industrials
+657,Energy
+658,Industrials
+659,Industrials
+660,Industrials
+661,Technology
+662,Financial Services
+663,Financial Services
+664,Basic Materials
+665,Communication Services
+666,Utilities
+667,Technology
+668,Consumer Cyclical
+669,Industrials
+670,Real Estate
+671,Industrials
+672,Industrials
+673,Consumer Cyclical
+674,Consumer Cyclical
+675,Financial Services
+676,Industrials
+677,Industrials
+678,Healthcare
+679,Technology
+680,Industrials
+681,Consumer Cyclical
+682,Utilities
+683,Financial Services
+684,Industrials
+685,Technology
+686,Technology
+687,Financial Services
+688,Basic Materials
+689,Financial Services
+690,Industrials
+691,Consumer Cyclical
+692,Technology
+693,Basic Materials
+694,Industrials
+695,Industrials
+696,Financial Services
+697,Financial Services
+698,Industrials
+699,Financial Services
+700,Industrials
+701,Consumer Defensive
+702,Healthcare
+703,Consumer Cyclical
+704,Consumer Defensive
+705,Financial Services
+706,Real Estate
+707,Technology
+708,Industrials
+709,Consumer Cyclical
+710,Financial Services
+711,Consumer Cyclical
+712,Industrials
+713,Basic Materials
+714,Real Estate
+715,Energy
+716,Consumer Cyclical
+717,Real Estate
+718,Financial Services
+719,Consumer Cyclical
+720,Basic Materials
+721,Real Estate
+722,Technology
+723,Industrials
+724,Financial Services
+725,Energy
+726,Financial Services
+727,Consumer Cyclical
+728,Industrials
+729,Financial Services
+730,Financial Services
+731,Communication Services
+732,Financial Services
+733,Energy
+734,Real Estate
+735,Consumer Cyclical
+736,Real Estate
+737,Basic Materials
+738,Consumer Cyclical
+739,Energy
+740,Consumer Cyclical
+741,Energy
+742,Industrials
+743,Communication Services
+744,Real Estate
+745,Consumer Cyclical
+746,Healthcare
+747,Consumer Cyclical
+748,Technology
+749,Technology
+750,Consumer Cyclical
+751,Healthcare
+752,Energy
+753,Technology
+754,Utilities
+755,Industrials
+756,Financial Services
+757,Energy
+758,Real Estate
+759,Industrials
+760,Consumer Cyclical
+761,Consumer Cyclical
+762,Energy
+763,Consumer Cyclical
+764,Utilities
+765,Consumer Cyclical
+766,Technology
+767,Real Estate
+768,Technology
+769,Energy
+770,Industrials
+771,Technology
+772,Technology
+773,Healthcare
+774,Energy
+775,Real Estate
+776,Consumer Cyclical
+777,Technology
+778,Industrials
+779,Communication Services
+780,Energy
+781,Basic Materials
+782,Healthcare
+783,Industrials
+784,Energy
+785,Consumer Cyclical
+786,Industrials
+787,Real Estate
+788,Healthcare
+789,Healthcare
+790,Consumer Cyclical
+791,Energy
+792,Communication Services
+793,Consumer Cyclical
+794,Financial Services
+795,Healthcare
+796,Energy
+797,Financial Services
+798,Industrials
+799,Industrials
+800,Technology
+801,Real Estate
+802,Consumer Cyclical
+803,Real Estate
+804,Technology
+805,Industrials
+806,Technology
+807,Technology
+808,Healthcare
+809,Industrials
+810,Industrials
+811,Consumer Cyclical
+812,Consumer Cyclical
+813,Industrials
+814,Healthcare
+815,Basic Materials
+816,Industrials
+817,Financial Services
+818,Technology
+819,Basic Materials
+820,Energy
+821,Energy
+822,Communication Services
+823,Technology
+824,Technology
+825,Industrials
+826,Healthcare
+827,Financial Services
+828,Energy
+829,Real Estate
+830,Industrials
+831,Technology
+832,Financial Services
+833,Financial Services
+834,Consumer Cyclical
+835,Financial Services
+836,Real Estate
+837,Technology
+838,Technology
+839,Financial Services
+840,Industrials
+841,Financial Services
+842,Consumer Cyclical
+843,Basic Materials
+844,Basic Materials
+845,Financial Services
+846,Basic Materials
+847,Technology
+848,Industrials
+849,Financial Services
+850,Industrials
+851,Technology
+852,Technology
+853,Energy
+854,Industrials
+855,Energy
+856,Consumer Cyclical
+857,Energy
+858,Technology
+859,Energy
+860,Basic Materials
+861,
+862,Consumer Cyclical
+863,
+864,Technology
+865,Industrials
+866,Financial Services
+867,Financial Services
+868,Real Estate
+869,Basic Materials
+870,Industrials
+871,Real Estate
+872,Technology
+873,Basic Materials
+874,Financial Services
+875,Industrials
+876,Energy
+877,Financial Services
+878,Real Estate
+879,Consumer Cyclical
+880,Consumer Cyclical
+881,Energy
+882,Technology
+883,Financial Services
+884,Technology
+885,Real Estate
+886,Technology
+887,Industrials
+888,Consumer Cyclical
+889,Energy
+890,Financial Services
+891,Industrials
+892,Basic Materials
+893,Financial Services
+894,Financial Services
+895,Industrials
+896,Financial Services
+897,Basic Materials
+898,Basic Materials
+899,Technology
+900,Real Estate
+901,Technology
+902,Financial Services
+903,Technology
+904,Industrials
+905,Healthcare
+906,Consumer Cyclical
+907,Industrials
+908,Basic Materials
+909,Energy
+910,Financial Services
+911,Consumer Cyclical
+912,Basic Materials
+913,Technology
+914,Real Estate
+915,Consumer Cyclical
+916,Energy
+917,Communication Services
+918,Energy
+919,Utilities
+920,Industrials
+921,Technology
+922,Industrials
+923,Basic Materials
+924,Technology
+925,Financial Services
+926,Consumer Cyclical
+927,Technology
+928,Real Estate
+929,Basic Materials
+930,Financial Services
+931,Communication Services
+932,Financial Services
+933,Consumer Cyclical
+934,Financial Services
+935,Basic Materials
+936,Real Estate
+937,Technology
+938,Consumer Cyclical
+939,Energy
+940,Industrials
+941,Industrials
